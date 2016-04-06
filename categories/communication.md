@@ -17,7 +17,7 @@ App Name                   | Describe                  | Major Language         
 ###C
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[ChatSecureAndroid](https://github.com/guardianproject/ChatSecureAndroid) | the most private messaging for Android and iOS https://dev.guardianproject.info/projects/gibberbot/issues | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im) 
+[ChatSecureAndroid](https://github.com/guardianproject/ChatSecureAndroid) | the most private messaging for Android and iOS | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im) 
 
 ###D
 App Name                   | Describe                  | Major Language             | Download 
@@ -47,7 +47,7 @@ App Name                   | Describe                  | Major Language         
 ###I
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[IRCCloud](https://github.com/irccloud/android) | The official Android app for IRCCloud.com | Java | [![Get it On Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.irccloud.android)
 
 ###J
 App Name                   | Describe                  | Major Language             | Download 
@@ -101,7 +101,7 @@ App Name                   | Describe                  | Major Language         
 ###S
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[surespot](https://github.com/surespot/android)| surespot is a mobile messaging application that secures all messages using end-to-end encryption. https://www.surespot.me | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.twofours.surespot) 
 
 ###T
 App Name                   | Describe                  | Major Language             | Download 

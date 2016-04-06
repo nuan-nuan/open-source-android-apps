@@ -12,7 +12,7 @@ App Name                   | Describe                  | Major Language         
 [AntennaPod](https://github.com/AntennaPod/AntennaPod) | A podcast manager for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)   
 [Awkward Ratings](https://github.com/nasahapps/AwkwardRatings-Android) | Shows a list of movies which would be awkward to watch with parents. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.nasahapps.awkwardratings)  
 [Apollo](https://github.com/CyanogenMod/android_packages_apps_Apollo) | Highly customizable Android music app. | Java |
-[Auro](https://github.com/architjn/Auro) | 1st Most Fastest, Latest Designed and open source Music player | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.nasahapps.awkwardratings)  
+[Auro](https://github.com/architjn/Auro) | 1st Most Fastest, Latest Designed and open source Music player | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.architjn.acjmusicplayer)  
 
 ###B
 App Name                   | Describe                  | Major Language             | Download 
@@ -74,6 +74,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Material-Movies](https://github.com/saulmm/Material-Movies) | An application about movies with material design | Java |      
+[Material Audiobook Player](https://github.com/PaulWoitaschek/MaterialAudiobookPlayer) | Audiobook Player for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=de.ph1b.audiobook)       
 [MD-BiliBili](https://github.com/Qixingchen/MD-BiliBili) | Third-part android client of http://www.bilibili.com with Material Design | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/Qixingchen/MD-BiliBili/releases)       
 [Mizuu](https://github.com/MizzleDK/Mizuu) | Popular media indexer app for Android. http://mizuu.tv | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://mizuu.tv/wp-content/plugins/download-monitor/download.php?id=20)   
 [MovieGuide](https://github.com/esoxjem/MovieGuide) | An Android app that showcases the MVP pattern and RxJava | Java |    
@@ -84,7 +85,7 @@ App Name                   | Describe                  | Major Language         
 ###N
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[NewPipe](https://github.com/theScrabi/NewPipe) | A lightweight Youtube frontend for Android. | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://f-droid.org/repository/browse/?fdfilter=newpipe&fdid=org.schabi.newpipe)  
 
 ###O
 App Name                   | Describe                  | Major Language             | Download 
@@ -110,12 +111,13 @@ App Name                   | Describe                  | Major Language         
 ###S
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[SagaMusic](https://github.com/SagaMusic/saga-android) | Free and legal music downloader for Android | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://getsa.ga/saga.apk)  
+[SagaMusic](https://github.com/SagaMusic/saga-android) | Free and legal music downloader for Android | Java |   
 [SimplifyReader](https://github.com/SkillCollege/SimplifyReader) | An Android client with Material Design, in chinese. | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/simplifyreader)  
 [Sky31Radio](https://github.com/linroid/Sky31Radio) | 湘潭大学三翼校园"四季电台" Android客户端 http://linroid.com/2015/02/11/sky31radio/ | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/sky31radio)  
 [spydroid-ipcamera](https://github.com/fyhertz/spydroid-ipcamera) | A powerful and funny android app. that streams the camera and microphone of your phone to your browser or to VLC | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.majorkernelpanic.spydroid)  
 [StickerCamera](https://github.com/Skykai521/StickerCamera) | A camera with sticker feature | Java |     
-[SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) | Manage (re)watching your favorite TV shows on your Android devices. http://seriesgui.de | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide)
+[SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) | Manage (re)watching your favorite TV shows on your Android devices.  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide)
+[Suprabhatham](https://github.com/v-adhithyan/suprabhatham-android-app) | Play Lord Venkateswara Suprabhatham or use schedule for playback later with option for recurring playback. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=ceg.avtechlabs.sbm)
 
 ###T
 App Name                   | Describe                  | Major Language             | Download 
@@ -135,7 +137,7 @@ App Name                   | Describe                  | Major Language         
 ###W
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[WhatAndroid](https://github.com/Gwindow/WhatAndroid) | The What.CD Android App http://gwindow.github.com/WhatAndroid/ | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://gwindow.github.io/WhatAndroid/) 
 
 ###X
 App Name                   | Describe                  | Major Language             | Download 

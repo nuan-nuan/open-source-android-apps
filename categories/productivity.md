@@ -12,7 +12,7 @@ App Name                   | Describe                  | Major Language         
 ###B
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Budget Notes](https://github.com/tairrzayev/bnotes.git) | Simplest possible app for noting down your income and expenses. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.tr.expenses)   
 
 ###C
 App Name                   | Describe                  | Major Language             | Download 
@@ -28,6 +28,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------:  
 [EverMemo](https://github.com/daimajia/EverMemo) | Fast Record, Organize and Share. The android memo app you will deeply love. ❤ http://mudlab9.com/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.zhan_dui.evermemo)  
+[EarthViewer](https://github.com/PDDStudio/earthview-android) | Showcase for earthview-android library and a wallpaper application together in one. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.pddstudio.earthviewer)
 
 ###F
 App Name                   | Describe                  | Major Language             | Download 
@@ -62,7 +63,7 @@ App Name                   | Describe                  | Major Language         
 ###L
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Loop Habit Tracker](https://github.com/iSoron/uhabits) | Android app that helps you create and maintain good habits | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.isoron.uhabits) 
 
 ###M
 App Name                   | Describe                  | Major Language             | Download 
@@ -104,8 +105,10 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Tasks](https://github.com/dmfs/opentasks) | A task app for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.dmfs.tasks)  
+[Text Fairy](https://github.com/renard314/textfairy) | Android OCR App | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.renard.ocr)  
 [tudounotepad](https://github.com/geminiwen/tudounotepad) | A simple Notepad Application developed on Kotlin | Kotlin |  
 [Turbo Editor](https://github.com/vmihalachi/turbo-editor) | Simple, Powerful and Open Source Text Editor for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.maskyn.fileeditor)
+[todotxt](https://github.com/ginatrapani/todo.txt-android) | Official Todo.txt Android app for managing your todo.txt file stored in Dropbox. http://todotxt.com | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.todotxt.todotxttouch)
 
 ###U
 App Name                   | Describe                  | Major Language             | Download 

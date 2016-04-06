@@ -18,14 +18,18 @@ App Name                   | Describe                  | Major Language         
 ###C
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[Cannonball](https://github.com/twitterdev/cannonball-android) | Cannonball is the fun way to create and share stories and poems on your phone. | Java |  [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=io.fabric.samples.cannonball)  
 [Cotable](https://github.com/wlemuel/Cotable) | Cnblogs Client for Android - Material Design http://www.cnblogs.com (Chinese) | Java |    
 [CNode-android](https://github.com/iwhys/CNode-android) | Android client for https://cnodejs.org/ (Chinese) | Java |  [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/iwhys/CNode-android/releases)  
 [CNode-Material-Design](https://github.com/TakWolf/CNode-Material-Design) | CNode for Material Design | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.cnodejs.android.md)   
+[Coding](https://coding.net/u/coding/p/Coding-Android/git) | Official android client for http://coding.net | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.coding.program)   
 
 ###D
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Dribbo](https://github.com/ikew0ng/Dribbo) | A BETTER Client for Dribbble. It lets you browse all categories of Dribbble, popular ,everyone and debuts. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.refactech.driibo)   
+[Douya](https://github.com/DreaminginCodeZH/Douya) | Android client for douban.com (Chinese) | Java | 
+[Dribbo](https://github.com/ikew0ng/Dribbo) | A BETTER Client for Dribbble. It lets you browse all categories of Dribbble, popular ,everyone and debuts. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.refactech.driibo)
+[DroidKaigi](https://github.com/konifar/droidkaigi2016) | DroidKaigi 2016 official Android conference app in Tokyo. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=io.github.droidkaigi.confsched)
 
 ###E
 App Name                   | Describe                  | Major Language             | Download 
@@ -41,6 +45,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Forkhub Android app for Github](https://github.com/jonan/ForkHub) | The Github android app was deprecated, but the "forkhub" fork is still being maintained and works fine | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=jp.forkhub)  
+[Git.NB](https://github.com/Jeffmen/Git.NB) | A app client for Github | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/Jeffmen/Git.NB/tree/master/apk)  
 [Gitskarios](https://github.com/gitskarios/Gitskarios) | Github android aplication http://gitskarios.com/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.alorma.github)  
 [Google I/O](https://github.com/google/iosched) | The Google I/O Android App | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched)   
 [Gunnner](https://github.com/egor-n/gunnner) | Dribbble client | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.gunnner)   
@@ -79,7 +84,7 @@ App Name                   | Describe                  | Major Language         
 ###N
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ [minicat](https://github.com/mcxiaoke/minicat)| 蘑菇饭App http://fanfou.com/androidsupport | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.mcxiaoke.minicat2) 
 
 ###O
 App Name                   | Describe                  | Major Language             | Download 
@@ -107,7 +112,8 @@ App Name                   | Describe                  | Major Language         
 ###S
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Shadowsocks](https://github.com/shadowsocks/shadowsocks-android) | A Shadowsocks client for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.github.shadowsocks)   
+[Shadowsocks](https://github.com/shadowsocks/shadowsocks-android) | A Shadowsocks client for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
+[Skooter](https://github.com/aayushranaut/skooterapp) | An anonymous social network | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.skooterapp)
 
 ###T
 App Name                   | Describe                  | Major Language             | Download 

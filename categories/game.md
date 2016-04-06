@@ -26,7 +26,7 @@ App Name                   | Describe                  | Major Language         
 ###D
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Dungeon Crawl Stone Soup](https://github.com/crawl/crawl) | A game of dungeon exploration, combat and magic, involving characters of diverse skills, worshipping deities of great power and caprice. | C++ | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.newtzgames.dcssonline) 
 
 ###E
 App Name                   | Describe                  | Major Language             | Download 
@@ -85,11 +85,11 @@ App Name                   | Describe                  | Major Language         
 ###O
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
+[Open Flood](https://github.com/GunshipPenguin/open_flood) | Flood fill game for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.gunshippenguin.openflood)
 ###P
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[Pixel Dungeon](https://github.com/watabou/pixel-dungeon) | Traditional roguelike game with pixel-art graphics and simple interface | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.watabou.pixeldungeon)
 [PokerTH](https://github.com/pokerth/pokerth) | PokerTH is a poker game written in C++/Qt. http://www.pokerth.net/  | C++ | 
 
 ###Q

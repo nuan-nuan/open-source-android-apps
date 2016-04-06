@@ -7,7 +7,7 @@ App Name                   | Describe                  | Major Language         
 ###A
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[AnkiDroid](https://github.com/ankidroid/Anki-Android) | A semi-official port of the open source [Anki](http://ankisrs.net) spaced repetition flashcard system to Android. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.ichi2.anki)
 
 ###B
 App Name                   | Describe                  | Major Language             | Download 
@@ -47,7 +47,7 @@ App Name                   | Describe                  | Major Language         
 ###I
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[IELTS Vocabulary Flashcards](https://github.com/bychkovdmitrii/words) | Flashcards for IELTS exam. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.dbychkov.words) 
 
 ###J
 App Name                   | Describe                  | Major Language             | Download 
@@ -62,7 +62,7 @@ App Name                   | Describe                  | Major Language         
 ###L
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[LeeCo](https://github.com/Nightonke/LeeCo) | LeeCo is an awesome app for algorithem problems(including unlock), solutions, discuss(from leetcode) and comments. | Java | [Get it on Github](https://github.com/Nightonke/LeeCo/blob/master/APK/LeeCo%20V1.0.0.apk) 
 
 ###M
 App Name                   | Describe                  | Major Language             | Download 

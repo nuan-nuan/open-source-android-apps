@@ -13,13 +13,14 @@ App Name                   | Describe                  | Major Language         
 [AIMSICD](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector) | AIMSICD against IMSI-Catchers, StingRay and Silent SMS! | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/releases)  
 [AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager) | Amaze File Manager. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.amaze.filemanager)  
 [AnotherMonitor](https://github.com/AntonioRedondo/AnotherMonitor) | Monitors and records the CPU and memory usage of Android devices | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.anothermonitor)  
- 
+[Andlytics](https://github.com/AndlyticsProject/andlytics)| Google Play - Android Market statistics app | Java |  [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.github.andlyticsproject) 
 
 ###B
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Bitocle for GitHub](https://github.com/mthli/Bitocle) | Bitocle is a simple android app which allows you to view your source code in GitHub.  | Java | 
 [BetterBatteryStats](https://github.com/asksven/BetterBatteryStats) | An attempt to provide advanced battery stats for Android  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.asksven.betterbatterystats)  
+[Beta Updater for WhatsApp](https://github.com/javiersantos/WhatsAppBetaUpdater) | An app to update WhatsApp to the latest beta version available on Android  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/javiersantos/WhatsAppBetaUpdater/releases)
 
 ###C
 App Name                   | Describe                  | Major Language             | Download 
@@ -36,7 +37,8 @@ App Name                   | Describe                  | Major Language         
 [DashClock Widget](https://github.com/romannurik/dashclock) | Lock screen widget for Android 4.2+  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock)  
 [DesignOverlay](https://github.com/Manabu-GT/DesignOverlay-Android) | Android app which displays design image with grid lines to facilitate the tedious design implementation process  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.ms_square.android.design.overlay) 
 [Developer Toolbelt - Fill RAM](https://github.com/T-Spoon/Android-Developer-Toolbelt) | On-device low-memory testing for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.tspoon.androidtoolbelt)  
-[Device Control](https://github.com/Evisceration/DeviceControl) | Device Control is an app to control several features of your device as well as some nice extra features  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.namelessrom.devicecontrol)  
+[Device Control](https://github.com/Evisceration/DeviceControl) | Device Control is an app to control several features of your device as well as some nice extra features  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.namelessrom.devicecontrol)
+[Droid Watcher](https://github.com/Odrin/Droid-Watcher) | Android remote control application with rich functionality | Java |
 
 ###E
 App Name                   | Describe                  | Major Language             | Download 
@@ -54,7 +56,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [GfyCat](https://github.com/dlew/android-gfycat) | Android application that loads gifs via gfycat for efficiency's sake  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/dlew/android-gfycat/releases)  
-[GitHub Status](https://github.com/cdeange/github-status) | Simple app to connect to Github's status API http://bit.ly/githubstatus  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.deange.githubstatus)  
+[GitHub Status](https://github.com/cdeange/github-status) | Simple app to connect to Github's status API  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.deange.githubstatus)  
 [GridWichterle](https://github.com/inmite/android-grid-wichterle) | This app will show grid overlay over whole system which helps you to verify your excellent app design.  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=eu.inmite.android.gridwichterle)  
 
 ###H
@@ -92,6 +94,7 @@ App Name                   | Describe                  | Major Language         
 [MultiROM Manager](https://github.com/Tasssadar/MultiROMMgr) | MultiROM Manager - android app for MultiROM mod  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.tassadar.multirommgr)  
 [MLManager](https://github.com/javiersantos/MLManager) | Modern, easy and customizable app manager for Android  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.javiersantos.mlmanager)  
 [Material Color Picker](https://github.com/4k3R/material-color-picker) | A simple, minimalistic and beautiful color picker for Android 4.1+ (Jellybean+) devices | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.anjithsasindran.materialcolorpicker&hl=en)
+[Moticons](https://github.com/javiersantos/Moticons) | A simple, easy and modern app to manage and use Japanese Emoticons with Material Design | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.javiersantos.moticons)
 
 ###N
 App Name                   | Describe                  | Major Language             | Download 
@@ -105,7 +108,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [OS Monitor](https://github.com/eolwral/OSMonitor) | Android OS Monitor  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.eolwral.osmonitor)  
-[owncloud](https://github.com/owncloud/android) | The ownCloud Android App. | Java | 
+[owncloud](https://github.com/owncloud/android) | The ownCloud Android App. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.owncloud.android)
 
 ###P
 App Name                   | Describe                  | Major Language             | Download 
@@ -128,6 +131,7 @@ App Name                   | Describe                  | Major Language         
 ###S
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[SeeWeather](https://github.com/xcc3641/SeeWeather) | RxAndroid+Retrofit+Glide+Matrial Design Weather App  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.wandoujia.com/apps/com.xiecc.seeWeather)  
 [SuperCleanMaster](https://github.com/joyoyao/superCleanMaster) | CleanMaster open source clone | Java |  
 [S Tools+](https://github.com/naman14/S-Tools) | Keep track of your CPU and Sensors alongwith useful features like Color Picker,Compass and device information | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.naman14.stools) 
 [SmsCodeHelper](https://github.com/drakeet/SmsCodeHelper) | 验证码助手，是一款 Material Design 的验证码管理器轻应用~它可以在手机接收到验证码短信的时候，自动浮现验证码，并且自动复制验证码到用户的剪切板。当用户接收到短信验证码，用户只要长按验证码的输入框，粘贴验证码即可。 | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=me.drakeet.inmessage)  
@@ -140,6 +144,7 @@ App Name                   | Describe                  | Major Language         
 [Telecine](https://github.com/JakeWharton/Telecine) | Record full-resolution video on your Android devices. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.jakewharton.telecine)  
 [Terminal Emulator for Android](https://github.com/jackpal/Android-Terminal-Emulator) | A VT-100 terminal emulator for the Android OS | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=jackpal.androidterm)  
 [ToolWizAppLock](https://github.com/Toolwiz/ToolWizAppLock) | Smart App Lock for Android http://www.toolwiz.com/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.cleanwiz.applock)  
+[TranslateApp](https://github.com/maoruibin/TranslateApp) | A translations app without interruptions  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=name.gudong.translate)  
 [translate-bubble-android](https://github.com/47deg/translate-bubble-android) | Translations without interruptions  | Scala | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.fortysevendeg.translatebubble)  
 [Travis Client](https://github.com/brave-warrior/TravisClient-Android) | Android client for Travis CI  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.khmelenko.lab.travisclient)  
 

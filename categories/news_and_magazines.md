@@ -40,20 +40,23 @@ App Name                   | Describe                  | Major Language         
 ###G
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[GitHot](https://github.com/andyiac/githot) | GitHot is an Android App that will help you find the world most popular project and person . http://githot.cn | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/githot)  
+[GitHot](https://github.com/andyiac/githot) | GitHot is an Android App that will help you find the world most popular project and person .  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/githot)  
 
 ###H
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Hacker News](https://github.com/manmal/hn-android) | The Hacker News Android App | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.manuelmaly.hn)  
 [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) | Hacker News iOS and Android App - Made with React Native. | JavaScript/React Native |   
+[Hex for Hacker News](https://github.com/longdivision/hex) | A snappy and fun Hacker News app | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.hexforhn.hex)   
 [Hummingbird](https://github.com/xiprox/Hummingbird-for-Android) | A cool, modern client app for the anime tracking website Hummingbird.me | java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/xiprox/Hummingbird-for-Android/releases)  
 [hacker-news-android](https://github.com/dinosaurwithakatana/hacker-news-android) | another hacknews client | java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=io.dwak.holohackernews.app)   
 
 ###I
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[ImportNew](https://github.com/lzjun567/XiYuanFangApp) | ImportNew Android App | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://pan.baidu.com/s/1i3w62rF)  
+[Idaily](https://github.com/liuguangqiang/Idaily) | 使用data binding , dagger2 , retrofit2和rxjava实现的，基于MVVM的知乎日报APP。
+ | Java |   
+[ImportNew](https://github.com/lzjun567/XiYuanFangApp) | ImportNew Android App | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://7lryy3.com1.z0.glb.clouddn.com/xiyuanfang1.1.apk)  
 
 ###J
 App Name                   | Describe                  | Major Language             | Download 
@@ -64,6 +67,7 @@ App Name                   | Describe                  | Major Language         
 ###K
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[kickmaterial](https://github.com/byoutline/kickmaterial) | Crowdfunding app concept for Android. Created to showcase new trends in Android development with strong focus on Material Design. | Java |   
 [KuaiHu](https://github.com/iKrelve/KuaiHu) | A third-part clent of daily.zhihu.com | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://pan.baidu.com/s/1nt1RI7B)  
 
 ###L
